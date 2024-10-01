@@ -24,4 +24,4 @@ Look X & Y - Mouse movement
 Change Level - N
 
 Brief Walthrough: 
-Starting the game will show the main menu. On selecting start, players spawn into the testing playground where there are two enemy AI's that follow the player and deal damage on collision. There are also many potion pick-ups for the player to interact in order to regain health as well as mana so players can activate the ultimate ability. By pressing N, players will be teleported to explore the first level blockout.
+Starting the game will show the main menu. On selecting start, players spawn into the testing playground where there are two enemy AI's that follow the player and deal damage on collision. There are also many potion pick-ups for the player to interact in order to regain health (red orbs) as well as mana (blue orbs) so players can activate the ultimate ability. Pressing E on the green orb makes the player pick up a sword, then they are able to commit attacks.  By pressing N, players will be teleported to explore the first level blockout.
